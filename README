@@ -1,17 +1,8 @@
 # diffbot
 
-FIXME: write description
+Diffbot client for clojure 
 
-## Usage
+Usage:
 
-FIXME: write
+    (analyze "http://www.cnn.com" "*your token*")
 
-## Installation
-
-FIXME: write
-
-## License
-
-Copyright (C) 2010 FIXME
-
-Distributed under the Eclipse Public License, the same as Clojure.
